@@ -1,6 +1,6 @@
 <!-- HEADER BANNER ANIMASI -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,29&height=220&section=header&text=Dhio%20Alga%20Putra&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,29&height=220&section=header&text=AlgawithoutY&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <!-- ANIMASI TEKS MENGETIK -->
@@ -18,7 +18,7 @@
 
 ### 💫 About Me
 - 🔭 Working on backend development with **Go (Gin Framework)** & **Python (Django)**.
-- 🗄️️ Database management using **MariaDB / MySQL** & **Beekeeper Studio**.
+- 🗄️ Database management using **MariaDB / MySQL** & **Beekeeper Studio**.
 - 🛠️ System Architecture & Database Design (**ERD & Use Case**).
 - 💬 Ask me about **Go, Python, Database Design, & REST API**.
 
