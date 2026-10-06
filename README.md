@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlgawithoutY&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile_Views-100%2B-blue?style=flat-square&logo=github" alt="Profile Views" />
 </p>
 
 ---
