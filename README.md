@@ -34,6 +34,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/AlgawithoutY/AlgawithoutY/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 ### 📊 GitHub Stats
