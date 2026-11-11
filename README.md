@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=130&section=header&text=AlgawithoutY&fontSize=36&fontColor=79c0ff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 </h1>
 
-<!-- DESKRIPSI / AUTOTEXT TEKS STABIL -->
+<!-- DESKRIPSI FULLSTACK -->
 <h3 align="center" style="color: #c9d1d9;">
-  💻 Software & Game Dev Learner &nbsp;|&nbsp; ⚡ Python & Git Enthusiast
+  🚀 Fullstack Developer &nbsp;|&nbsp; 🐍 Python & Database Enthusiast &nbsp;|&nbsp; ⚡ Git & Web Dev
 </h3>
 
 <br>
