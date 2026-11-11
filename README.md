@@ -1,11 +1,11 @@
 <!-- BANNER & AVATAR -->
 <p align="center">
-  <table align="center" border="0" cellspacing="0" cellpadding="0">
+  <table align="center" style="border: none; border-collapse: collapse;">
     <tr>
-      <td align="center" valign="middle" style="padding-right: 20px;">
+      <td align="center" style="border: none; padding-right: 20px;">
         <img src="https://github.com/AlgawithoutY.png" width="140px" style="border-radius: 50%;" alt="Avatar" />
       </td>
-      <td align="center" valign="middle">
+      <td align="center" style="border: none;">
         <img src="https://raw.githubusercontent.com/AlgawithoutY/AlgawithoutY/main/hyaku-cute.gif" width="450px" alt="Banner GIF" />
       </td>
     </tr>
