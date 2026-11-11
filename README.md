@@ -2,10 +2,16 @@
 <p align="center">
   <table align="center" style="border: none; border-collapse: collapse;">
     <tr>
-      <td align="center" style="border: none; padding-right: 20px;">
-        <img src="https://github.com/AlgawithoutY.png" width="140px" style="border-radius: 50%;" alt="Avatar" />
+      <td align="center" style="border: none; padding-right: 20px; vertical-align: top;">
+        <img src="https://github.com/AlgawithoutY.png" width="140px" style="border-radius: 50%;" alt="Avatar" /><br>
+        <h3>Hi, I'm AlgawithoutY 👋</h3>
+        <p align="left">
+          💻 Software & Game Dev learner<br>
+          ⚡ Python, Git, & Web Enthusiast<br>
+          🌱 Always exploring new things!
+        </p>
       </td>
-      <td align="center" style="border: none;">
+      <td align="center" style="border: none; vertical-align: middle;">
         <img src="https://raw.githubusercontent.com/AlgawithoutY/AlgawithoutY/main/hyaku-cute.gif" width="450px" alt="Banner GIF" />
       </td>
     </tr>
