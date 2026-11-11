@@ -1,6 +1,6 @@
-<!-- BANNER NAMA DI PALING ATAS -->
+<!-- BANNER NAMA DENGAN BACKGROUND CARD -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF75C3&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+AlgawithoutY+👋;Welcome+to+my+GitHub+Profile!;Software+%26+Game+Dev+Learner" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15,22&height=120&section=header&text=Hi,%20I'm%20AlgawithoutY&fontSize=32&fontColor=ff75c3&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 </p>
 
 <br>
