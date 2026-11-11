@@ -5,7 +5,7 @@
 
 <!-- DESKRIPSI FULLSTACK -->
 <h3 align="center" style="color: #c9d1d9;">
-  🚀 Fullstack Developer &nbsp;|&nbsp; 🐍 Python & Database Enthusiast &nbsp;|&nbsp; ⚡ Git & Web Dev
+   Fullstack Developer &nbsp;|&nbsp;  Python & Database Enthusiast &nbsp;|&nbsp;  Git & Web Dev
 </h3>
 
 <br>
