@@ -1,14 +1,16 @@
 <!-- BANNER & AVATAR -->
-<table align="center" border="0" width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://github.com/AlgawithoutY.png" width="130px" style="border-radius: 50%;" alt="Avatar" />
-    </td>
-    <td align="center" width="75%">
-      <img src="https://raw.githubusercontent.com/AlgawithoutY/AlgawithoutY/main/hyaku-cute.gif" width="100%" alt="Banner GIF" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table align="center" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" valign="middle" style="padding-right: 20px;">
+        <img src="https://github.com/AlgawithoutY.png" width="140px" style="border-radius: 50%;" alt="Avatar" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/AlgawithoutY/AlgawithoutY/main/hyaku-cute.gif" width="450px" alt="Banner GIF" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 <!-- GITHUB STATS -->
 <p align="center">
