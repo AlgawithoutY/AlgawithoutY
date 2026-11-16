@@ -27,9 +27,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Databases-336791?style=for-the-badge" alt="Databases" />
 
-## GitHub stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=AlgawithoutY&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-
-<!-- Artwork: upload gambarmu ke repo ini, lalu hapus tanda komentar di bawah dan ganti nama filenya -->
-<!-- <img src="artwork.png" width="520" alt="Artwork" /> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlgawithoutY/AlgawithoutY/main/hyaku-cute.gif" width="700px" style="border-radius: 12px;" alt="Banner GIF" />
+</p>
