@@ -27,7 +27,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Databases-336791?style=for-the-badge" alt="Databases" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlgawithoutY/AlgawithoutY/main/hyaku-cute.gif" width="700px" style="border-radius: 12px;" alt="Banner GIF" />
-   <sub>GIF by @hyaku1063</sub>
-</p>
+<div align="center">
+  <img src="hyaku.gif" width="320" alt="GIF by hyaku1063" />
+  <br />
+  <sub>GIF by @hyaku1063</sub>
+</div>
