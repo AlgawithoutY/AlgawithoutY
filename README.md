@@ -28,7 +28,8 @@
 <img src="https://img.shields.io/badge/Databases-336791?style=for-the-badge" alt="Databases" />
 
 <div align="center">
-  <img src="hyaku-cute.gif" width="320" alt="GIF by hyaku1063" />
+  <img src="hyaku-cute.gif" width="600" alt="GIF by hyaku1063" />
   <br />
   <sub>GIF by @hyaku1063</sub>
 </div>
+ 
