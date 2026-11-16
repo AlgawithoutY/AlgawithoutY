@@ -14,11 +14,12 @@
 
 ## About me
 
-[Tulis 1-2 kalimat tentang dirimu di sini.]
+Hi, I'm Alga
 
-- Building: barbershop-booking
-- Learning: [topik yang sedang kamu pelajari]
-- Reach me: [email atau sosial media]
+Aspiring Backend Developer
+Currently learning Programming and Database Management.
+
+Languages: Python and Go
 
 ## Tech stack
 
