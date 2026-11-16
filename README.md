@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1a33,100:1f6fb5&height=180&section=header&text=Alga&fontSize=64&fontColor=cfe8ff" alt="Alga banner" />
-
-### Fullstack Developer
-
-**Python & Database Enthusiast** | **Git & Web Dev**
-
-<img src="https://img.shields.io/badge/@AlgawithoutY-0a1a33?style=for-the-badge&logo=github&logoColor=white" alt="AlgawithoutY" />
+<img src="header.svg" width="100%" alt="ALGA - Fullstack Developer" />
 
 </div>
 
@@ -16,10 +10,9 @@
 
 Hi, I'm Alga
 
-Aspiring Backend Developer
-Currently learning Programming and Database Management.
-
-Languages: Python and Go
+- Aspiring Backend Developer
+- Currently learning Programming and Database Management
+- Languages: Python and Go
 
 ## Tech stack
 
@@ -30,4 +23,3 @@ Languages: Python and Go
   <br />
   <sub>GIF by @hyaku1063</sub>
 </div>
- 
